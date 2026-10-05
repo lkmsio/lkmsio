@@ -3,10 +3,9 @@
 🎓 Étudiant en BTS SIO | Intéressé par le développement et les systèmes & réseaux
 
 Paris (75)
-Je recherche un Stage 
-Linux, Windows Server, System réseau, Cisco, Python, SQL, Paket Tracer
-TP : GLPI, SQL, XML,
-Non je viens de créer un compte Linkedin & Github
+Je suis a la recherche d'un Stage, je maitrise : Linux, Windows Server, System réseau, Cisco, Python, SQL, Paket Tracer
+Depuis le début de l'année nous avons fait comme TP : GLPI, SQL, XML,
+et pour finir je viens de créer un compte Linkedin & Github
 
 Passionné par l’informatique et les nouvelles technologies, je suis actuellement étudiant en BTS SIO. Je m’intéresse particulièrement au développement logiciel, à la programmation en C++, ainsi qu’aux domaines liés aux systèmes et réseaux.
 
